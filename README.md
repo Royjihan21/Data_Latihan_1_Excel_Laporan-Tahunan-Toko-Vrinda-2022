@@ -50,7 +50,7 @@ Vrinda store ingin membuat laporan penjualan untuk tahun 2022, jadi vrinda store
       
 ## Dashboard
 <div align="center">
-  <img src="https://github.com/Royjihan21/Data_Gambar_Excel/blob/main/Picture_Porto_1_Excel_Laporan%20Tahunan%20Toko%20Vrinda%202022/dashboard.png>
+  <img src="https://github.com/Royjihan21/Data_Gambar_Excel/blob/main/Picture_Porto_1_Excel_Laporan%20Tahunan%20Toko%20Vrinda%202022/dashboard.png">
 </div>
 
 ## Kesimpulan
