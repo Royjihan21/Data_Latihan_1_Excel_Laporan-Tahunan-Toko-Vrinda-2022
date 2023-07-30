@@ -6,9 +6,9 @@ Selamat datang di Proyek Excel Menarik! Proyek ini dirancang untuk memberikan pe
 
 - [Tujuan Pengerjaan](#tujuan-pengerjaan)
 - [Pertanyaan Beserta Jawaban](#pertanyaan-beserta-jawaban)
-- [Data Cleansing](Data-Cleansing)
-- [Data Prosesing](Data-Prosesing)
-- [Dashboard](dashboard)
+- [Data Cleansing](#data-cleansing)
+- [Data Prosesing](#data-prosesing)
+- [Dashboard](#dashboard)
 - [Kesimpulan](#kesimpulan)
 - [Tentang](#tentang)
 
