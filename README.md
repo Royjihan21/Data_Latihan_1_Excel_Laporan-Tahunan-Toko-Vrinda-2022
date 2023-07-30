@@ -5,9 +5,12 @@ Selamat datang di Proyek Excel Menarik! Proyek ini dirancang untuk memberikan pe
 ## Daftar Isi
 
 - [Tujuan Pengerjaan](#tujuan-pengerjaan)
-- [Pertanyaan Bagian 1](#pertanyaan-bagian-1)
+- [Pertanyaan Beserta Jawaban](#pertanyaan-beserta-jawaban)
+- [Data Cleansing](data-cleansing)
+- [Data Prosesing](data-prosesing)
+- [Dashboard](dashboard)
 - [Kesimpulan](#kesimpulan)
-- [Kontribusi](#kontribusi)
+- [Tentang](#tentang)
 
 ## Tujuan Pengerjaan
 
@@ -44,26 +47,21 @@ Vrinda store ingin membuat laporan penjualan untuk tahun 2022, jadi vrinda store
 
 ### 2. Membuat kolom month
       Dengan rumus : =TEXT(G2;"mmmm")
+      
+## Dashboard
+<div align="center">
+  <img src="https://github.com/Royjihan21/Data_Latihan_SQL_1_Music/blob/main/schema_diagram.png">
+</div>
 
 ## Kesimpulan
 
 kesimpulan akhir untuk meningkatkan penjualan toko vrinda
 target pelanggan wanita kelompok usia 30-49 tahun yang tinggal di maharashtra, karnataka dan uttar pradesh dengan menampilkan iklan/penawaran/kupon yang tersedia di amazon, flipkart dan myntra
 
-## Kontribusi
+## Tentang
 
-Kontribusi selalu sangat dihargai! Jika Anda ingin menambahkan contoh atau latihan baru, memperbaiki kesalahan, atau meningkatkan proyek ini secara keseluruhan, silakan ikuti langkah-langkah berikut:
-1. Fork repositori ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda: `git checkout -b fitur-baru`.
-3. Lakukan perubahan yang diinginkan.
-4. Commit perubahan Anda: `git commit -m 'Menambahkan contoh query SQL baru'`.
-5. Push ke branch Anda: `git push origin fitur-baru`.
-6. Buat pull request ke branch `main` repositori ini.
-
-Kami akan melihat kontribusi Anda dengan senang hati dan merespons secepat mungkin!
-- SQL Client yang di pakai DBeaver untuk berinteraksi dengan database.
 - Pembelajaran dari Youtube [Rishabh Mishra] - https://www.youtube.com/@RishabhMishraOfficial
 
-Terima kasih telah mengeksplorasi Proyek SQL Menarik ini! Semoga proyek ini membantu Anda meningkatkan pemahaman tentang SQL
+Terima kasih telah mengeksplorasi Proyek excel Menarik ini! Semoga proyek ini membantu Anda meningkatkan pemahaman tentang excel
 ***
 © 2023 - Royjihan Maulana
